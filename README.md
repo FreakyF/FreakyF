@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 Hello! I'm Kamil Fudala, a Computer Science student at Kielce University of Technology. I have a strong passion for software development and experience with Java, Oracle SQL & PL/SQL, C & C++, kernel module development, and GNU/Linux. I thrive on learning new concepts and technologies and am not afraid to think creatively to find innovative solutions. I believe that curiosity, adaptability, and an open mind are essential for success in the dynamic world of software development. I am genuinely excited about the future and eager to make valuable contributions to the field of computer science.
 
 # 🌐 Socials:
