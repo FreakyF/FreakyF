@@ -1,31 +1,109 @@
-# 💫 About Me:
-Hello! I'm Kamil Fudala, a Computer Science student at Kielce University of Technology. I have a strong passion for software development and experience with Java, Oracle SQL & PL/SQL, C & C++, kernel module development, and GNU/Linux. I thrive on learning new concepts and technologies and am not afraid to think creatively to find innovative solutions. I believe that curiosity, adaptability, and an open mind are essential for success in the dynamic world of software development. I am genuinely excited about the future and eager to make valuable contributions to the field of computer science.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&duration=1&pause=1&color=C71D47&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Kamil+Fudala" alt="Kamil Fudala" /></a>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=C71D47&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Clean+Code+Advocate;Tech+Fanatic;Automation+Enthusiast" alt="Software Developer Clean Code Advocate Tech Fanatic Automation Enthusiast" />
+</h1>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-fudala) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamil-fudala">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kamil.fudala44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.discord.com/users/246931767808884736">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="justify">
+  Exploring the realms of programming, databases, IoT, automation, embedded systems, and operating systems with enthusiasm, my journey through computer science at Kielce University of Technology is fueled by curiosity and a relentless pursuit of knowledge. Eager to delve deeper, I'm always ready to embrace the challenges and opportunities these fields present.
+</p>
 
-# Languages used over Last 30 Days
-![Languages used over last 30 days](https://wakatime.com/share/@af25458a-7b17-4610-9e23-863caf9e5f12/90f254ad-edd2-4b98-b9e5-ff8b8879ace0.png)
+<p align="justify">
+  My interests extend beyond the digital world, finding joy in music, the thrill of motorsports, and a profound appreciation for cars. These passions, contrasting yet complementary to my technical endeavors, highlight the beauty of precision, performance, and innovation, shaping my unique perspective on technology and its intersection with everyday life.
+</p>
 
-# Coding Activity over Last 30 Days
-![Coding Activity over Last 30 Days](https://wakatime.com/share/@af25458a-7b17-4610-9e23-863caf9e5f12/3efbda8c-2924-419b-87b7-ec24c7ccebd6.png)
+<h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FreakyF&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FreakyF&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreakyF&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/JUnit">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/JSON">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/MATLAB">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/MySQL">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Oracle_Database">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Windows_11">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/PowerShell">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/JetBrains">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Git">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/GitHub">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/Markdown">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /></a>
+</p>
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FreakyF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<h2 align="center">📈 Stats 📊</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=FreakyF&icon=1&color=1)](https://visitcount.itsvg.in)
+<p float="left">
+  <a href="#" title="Profile stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=FreakyF&hide=contribs,issues&show=prs_merged,prs_merged_percentage&show_icons=true&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" alt="Profile stats" width=468>
+  </a>
+  <a href="#" title="GitHub Streak">
+    <img align="right" src="https://streak-stats.demolab.com?user=FreakyF&border_radius=18&background=00000000&border=C71D47&stroke=C71D47&ring=C71D47&fire=C71D47&currStreakNum=C71D47&sideNums=C71D47&currStreakLabel=C71D47&sideLabels=C71D47&dates=C71D47&excludeDaysLabel=C71D47&card_width=468" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FreakyF&bg_color=00000000&color=C71D47&title_color=C71D47&line=C71D47&point=00000000&area_color=C71D47&area=true&hide_border=true&hide_title=false&theme=default&radius=18&height=230" alt="Contribution Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@FreakyF&layout=compact&title_color=C71D47&text_color=C71D47&icon_color=4c71f2&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" alt="WakaTime Stats">
+</p>
+
+<h2 align="center"> 📂 Repositories 💾</h2>
+
+<p float="left">
+  <a href="https://github.com/FreakyF/Weather-track" title="Weather-track">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Weather-track&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  </a>
+  <a href="https://github.com/FreakyF/This-is-war-remastered" title="This-is-war-remastered">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=This-is-war-remastered&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  </a>
+</p>
+<p float="left">
+  <a href="https://github.com/FreakyF/Calculator-plus-plus" title="Calculator-plus-plus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Calculator-plus-plus&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  </a>
+  <a href="https://github.com/FreakyF/Windows-Setup-Script" title="Windows-Setup-Script">
+    <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Windows-Setup-Script&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  </a>
+</p>
+
+<h4 align="center">
+  <a href="https://github.com/FreakyF?tab=repositories" title="Show Repositories">👀 Show More 🔍</a>
+</h4>
