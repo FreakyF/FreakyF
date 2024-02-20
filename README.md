@@ -46,6 +46,9 @@
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/Oracle_Database">
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a>
+</p>
+
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
