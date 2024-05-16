@@ -97,8 +97,8 @@
   </a>
 </p>
 <p float="left">
-  <a href="https://github.com/FreakyF/Calculator-plus-plus" title="Calculator-plus-plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Calculator-plus-plus&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  <a href="https://github.com/FreakyF/EvolvePlusPlus" title="EvolvePlusPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=EvolvePlusPlus&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
   </a>
   <a href="https://github.com/FreakyF/Windows-Setup-Script" title="Windows-Setup-Script">
     <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Windows-Setup-Script&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
