@@ -18,7 +18,7 @@ As a passionate and detail-oriented Software Developer, I specialize in creating
 </p>
 
 <p align="justify">
-  Beyond the world of software development, I am driven by my passion for motorsports, racing, and cars—areas where speed, precision, and performance also matter. Music fuels my creativity, providing balance and inspiration for my professional life. Combining my technical skills with these passions, I bring a unique perspective to every project I undertake.
+  Beyond the world of software development, I am driven by my passion for motorsports, racing, and cars - areas where speed, precision, and performance also matter. Music fuels my creativity, providing balance and inspiration for my professional life. Combining my technical skills with these passions, I bring a unique perspective to every project I undertake.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
