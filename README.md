@@ -14,11 +14,11 @@
 </p>
 
 <p align="justify">
-  Exploring the realms of programming, databases, IoT, automation, embedded systems, and operating systems with enthusiasm, my journey through computer science at Kielce University of Technology is fueled by curiosity and a relentless pursuit of knowledge. Eager to delve deeper, I'm always ready to embrace the challenges and opportunities these fields present.
+As a passionate and detail-oriented Software Developer, I specialize in creating efficient and scalable solutions using C# and Angular. With a solid understanding of databases, I strive to build applications that are both user-friendly and technically robust. My expertise in these technologies allows me to approach complex challenges with creativity and precision.
 </p>
 
 <p align="justify">
-  My interests extend beyond the digital world, finding joy in music, the thrill of motorsports, and a profound appreciation for cars. These passions, contrasting yet complementary to my technical endeavors, highlight the beauty of precision, performance, and innovation, shaping my unique perspective on technology and its intersection with everyday life.
+  Beyond the world of software development, I am driven by my passion for motorsports, racing, and cars—areas where speed, precision, and performance also matter. Music fuels my creativity, providing balance and inspiration for my professional life. Combining my technical skills with these passions, I bring a unique perspective to every project I undertake.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
