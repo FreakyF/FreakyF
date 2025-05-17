@@ -95,10 +95,13 @@ As a passionate and detail-oriented Software Developer, I specialize in creating
   <a href="https://github.com/FreakyF/Master-Fraud" title="Master-Fraud">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Master-Fraud&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
   </a>
-</p>
-<p float="left">
   <a href="https://github.com/FreakyF/Car-Mender" title="Car-Mender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Car-Mender&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
+  </a>
+</p>
+<p float="left">
+  <a href="https://github.com/FreakyF/Master-Fraud" title="Master-Fraud">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Master-Fraud&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
   </a>
   <a href="https://github.com/FreakyF/Felony-Forecast" title="Felony-Forecast">
     <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Felony-Forecast&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
