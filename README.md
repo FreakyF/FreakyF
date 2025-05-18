@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&duration=1&pause=1&color=C71D47&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Kamil+Fudala" alt="Kamil Fudala" /></a>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=C71D47&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Clean+Code+Advocate;Tech+Fanatic;Automation+Enthusiast" alt="Software Developer Clean Code Advocate Tech Fanatic Automation Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&pause=1000&color=C71D47&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Clean+Code+Advocate;Security+Minded;Knowledge+Seeker" alt="Software Engineer Clean Code Advocate Security Minded Knowledge Seeker" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@ I am a Software Engineer with a Bachelor of Engineering in Computer Science (Tel
 </p>
 
 <p align="justify">
-Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for WEC and Formula 1 racing, a dedicated amateur guitarist and music aficionado. My fascination with automotive engineering and motorsport fuels my appreciation for precision and performance under pressure, driving me to optimize code and systems with the same relentless pursuit of speed and reliability. As an amateur guitarist and music aficionado, I cultivate creativity, patience, and the discipline to master complex compositions, which I apply to problem-solving and continuous learning in software development.
+Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for WEC and Formula 1 racing, and a dedicated amateur guitarist and music aficionado. My fascination with motorsport drives me to demand precision and peak performance under pressure, inspiring me to optimize code and systems with the same relentless pursuit of speed, reliability, and efficiency. Through guitar playing and active engagement with music, I cultivate creativity, patience, and disciplined mastery of complexity—qualities I apply to problem-solving and continuous learning in software development.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
