@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&duration=1&pause=1&color=C71D47&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Kamil+Fudala" alt="Kamil Fudala" /></a>
   <br>
@@ -24,49 +26,50 @@ As a passionate and detail-oriented Software Developer, I specialize in creating
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/JUnit">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/JSON">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/MATLAB">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/MySQL">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Oracle_Database">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/.NET_Framework">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/PostgreSQL">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>  
 </p>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Windows_11">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/JetBrains">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Docker_(software)">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Git">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/GitHub">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/Markdown">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /></a>
+    <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></a>  
+    <a href="https://ngrx.io/docs">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/ReactiveX">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/HTML5">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/CSS">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/Tailwind_CSS">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>  
+</p>
+
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Git">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/GitHub">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/Azure_DevOps_Server">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /></a>  
+        <a href="https://en.wikipedia.org/wiki/Docker_(software)">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/Windows_11">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/Linux">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/JetBrains#PhpStorm">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/JetBrains#Rider">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" /></a>  
+    <a href="https://en.wikipedia.org/wiki/Figma">  
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>  
 </p>
 
 <h2 align="center">📈 Stats 📊</h2>
