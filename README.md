@@ -16,11 +16,11 @@
 </p>
 
 <p align="justify">
-As a passionate and detail-oriented Software Developer, I specialize in creating efficient and scalable solutions using C# and Angular. With a solid understanding of databases, I strive to build applications that are both user-friendly and technically robust. My expertise in these technologies allows me to approach complex challenges with creativity and precision.
+I am a Software Engineer with a Bachelor of Engineering in Computer Science (Teleinformatics specialization) from Kielce University of Technology, and I am currently pursuing my Master of Engineering in Computer Science with a focus on Cybersecurity to ensure the software I build is robust and secure. I specialize in architecting and implementing scalable, maintainable, and elegant solutions, rigorously applying core principles - KISS, DRY, SOLID, and YAGNI - throughout the entire development lifecycle. I advocate for clean architecture and test-driven development to guarantee reliability and ease of future enhancement. Driven by a collaborative mindset, I thrive in agile teams where clear communication and shared ownership accelerate innovation and uphold the highest standards of code quality.
 </p>
 
 <p align="justify">
-  Beyond the world of software development, I am driven by my passion for motorsports, racing, and cars - areas where speed, precision, and performance also matter. Music fuels my creativity, providing balance and inspiration for my professional life. Combining my technical skills with these passions, I bring a unique perspective to every project I undertake.
+Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for WEC and Formula 1 racing, a dedicated amateur guitarist and music aficionado. My fascination with automotive engineering and motorsport fuels my appreciation for precision and performance under pressure, driving me to optimize code and systems with the same relentless pursuit of speed and reliability. As an amateur guitarist and music aficionado, I cultivate creativity, patience, and the discipline to master complex compositions, which I apply to problem-solving and continuous learning in software development.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
