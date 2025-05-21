@@ -16,7 +16,7 @@
 </p>
 
 <p align="justify">
-I am a Software Engineer with a Bachelor of Engineering in Computer Science (Teleinformatics specialization) from Kielce University of Technology, and I am currently pursuing my Master of Engineering in Computer Science with a focus on Cybersecurity to ensure the software I build is robust and secure. I specialize in architecting and implementing scalable, maintainable, and elegant solutions, rigorously applying core principles - KISS, DRY, SOLID, and YAGNI - throughout the entire development lifecycle. I advocate for clean architecture and test-driven development to guarantee reliability and ease of future enhancement. Driven by a collaborative mindset, I thrive in agile teams where clear communication and shared ownership accelerate innovation and uphold the highest standards of code quality.
+I am a Software Engineer with a Bachelor of Engineering in Computer Science from Kielce University of Technology, and I am currently pursuing my Master of Engineering in Computer Science with a focus on Cybersecurity to ensure the software I build is robust and secure. I specialize in architecting and implementing scalable, maintainable, and elegant solutions, rigorously applying core principles - KISS, DRY, SOLID, and YAGNI - throughout the entire development lifecycle. I advocate for clean architecture and test-driven development to guarantee reliability and ease of future enhancement. Driven by a collaborative mindset, I thrive in agile teams where clear communication and shared ownership accelerate innovation and uphold the highest standards of code quality.
 </p>
 
 <p align="justify">
