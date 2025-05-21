@@ -20,7 +20,7 @@ I am a Software Engineer with a Bachelor of Engineering in Computer Science (Tel
 </p>
 
 <p align="justify">
-Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for WEC and Formula 1 racing, and a dedicated amateur guitarist and music aficionado. My fascination with motorsport drives me to demand precision and peak performance under pressure, inspiring me to optimize code and systems with the same relentless pursuit of speed, reliability, and efficiency. Through guitar playing and active engagement with music, I cultivate creativity, patience, and disciplined mastery of complexity—qualities I apply to problem-solving and continuous learning in software development.
+Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for endurance racing and Formula 1 racing, and a dedicated amateur guitarist and music aficionado. My fascination with motorsport drives me to demand precision and peak performance under pressure, inspiring me to optimize code and systems with the same relentless pursuit of speed, reliability, and efficiency. Through guitar playing and active engagement with music, I cultivate creativity, patience, and disciplined mastery of complexity—qualities I apply to problem-solving and continuous learning in software development.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
