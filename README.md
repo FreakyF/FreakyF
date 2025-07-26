@@ -18,7 +18,7 @@
 <p align="justify">
   🧑‍💻 Software Engineer — B.Eng CS (Kielce) → M.Eng CS (Cybersecurity) in progress 🔐
 
-🧩 Clean Architecture + TDD. KISS • DRY • SOLID • YAGNI — or it doesn’t ship.
+🧩 Clean Architecture + TDD. KISS • DRY • SOLID - or it doesn’t ship.
 
 🏗️ Builds scale & sanity: fewer knobs, more signal, no drama.
 
