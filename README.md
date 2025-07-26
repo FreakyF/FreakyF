@@ -88,11 +88,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=FreakyF&show=prs_merged&show_icons=false&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&hide_title=true&theme=default&cache_seconds=21600&locale=en&border_radius=18"
+    src="https://github-readme-stats.vercel.app/api?username=FreakyF&show=prs_merged&show_icons=false&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=true&hide_title=true&theme=default&cache_seconds=21600&locale=en"
     alt="Profile stats"
     width="49.7%" />
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@FreakyF&layout=compact&title_color=C71D47&text_color=C71D47&icon_color=4c71f2&border_color=C71D47&bg_color=00000000&hide_border=false&hide_title=true&theme=default&cache_seconds=1800&locale=en&border_radius=18&langs_count=12"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@FreakyF&layout=compact&title_color=C71D47&text_color=C71D47&icon_color=4c71f2&border_color=C71D47&bg_color=00000000&hide_border=true&hide_title=true&theme=default&cache_seconds=1800&locale=en&langs_count=12"
     alt="WakaTime Stats"
     width="49.7%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FreakyF&bg_color=00000000&color=C71D47&title_color=C71D47&line=C71D47&point=00000000&area_color=C71D47&area=true&hide_border=true&hide_title=true&theme=default" alt="Contribution Graph">
 </p>
