@@ -24,7 +24,7 @@
 
 🧪 Tests > vibes. Refactor early, refactor often.
 
-🏎️ Endurance/F1 brain: shave ms like lap times; slow code gets blue‑flagged.
+🏎️ F1 brain: shave ms like lap times; slow code gets blue‑flagged.
 
 🎸 Guitar mode: rhythm, riffs, repetition → reliable delivery.
 
