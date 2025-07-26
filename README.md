@@ -16,7 +16,7 @@
 </p>
 
 <p align="justify">
-  🧑‍💻 Software Engineer — B.Eng CS → M.Eng CS (Cybersecurity) in progress 🔐
+  🧑‍💻 Software Engineer - B.Eng CS → M.Eng CS (Cybersecurity) in progress 🔐
 
 🧩 Clean Architecture + TDD. KISS • DRY • SOLID - or it doesn’t ship.
 
