@@ -88,26 +88,3 @@ Beyond my professional pursuits, I am an avid automotive enthusiast with a passi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FreakyF&bg_color=00000000&color=C71D47&title_color=C71D47&line=C71D47&point=00000000&area_color=C71D47&area=true&hide_border=true&hide_title=true&theme=default&radius=18&height=230" alt="Contribution Graph">
 </p>
-
-<h2 align="center"> 📂 Repositories 💾</h2>
-
-<p float="left">
-  <a href="https://github.com/FreakyF/Cryptie" title="Cryptie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Cryptie&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
-  </a>
-  <a href="https://github.com/FreakyF/Car-Mender" title="Car-Mender">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Car-Mender&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
-  </a>
-</p>
-<p float="left">
-  <a href="https://github.com/FreakyF/Master-Fraud" title="Master-Fraud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Master-Fraud&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
-  </a>
-  <a href="https://github.com/FreakyF/Felony-Forecast" title="Felony-Forecast">
-    <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Felony-Forecast&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
-  </a>
-</p>
-
-<h4 align="center">
-  <a href="https://github.com/FreakyF?tab=repositories" title="Show Repositories">👀 Show More 🔍</a>
-</h4>
