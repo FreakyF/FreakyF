@@ -16,11 +16,21 @@
 </p>
 
 <p align="justify">
-I am a Software Engineer with a Bachelor of Engineering in Computer Science from Kielce University of Technology, and I am currently pursuing my Master of Engineering in Computer Science with a focus on Cybersecurity to ensure the software I build is robust and secure. I specialize in architecting and implementing scalable, maintainable, and elegant solutions, rigorously applying core principles - KISS, DRY, SOLID, and YAGNI - throughout the entire development lifecycle. I advocate for clean architecture and test-driven development to guarantee reliability and ease of future enhancement. Driven by a collaborative mindset, I thrive in agile teams where clear communication and shared ownership accelerate innovation and uphold the highest standards of code quality.
-</p>
+  🧑‍💻 Software Engineer — B.Eng CS (Kielce) → M.Eng CS (Cybersecurity) in progress 🔐
 
-<p align="justify">
-Beyond my professional pursuits, I am an avid automotive enthusiast with a passion for endurance racing and Formula 1, and a dedicated amateur guitarist and music aficionado. My fascination with motorsport drives me to demand precision and peak performance under pressure, inspiring me to optimize code and systems with the same relentless pursuit of speed, reliability, and efficiency. Through guitar playing and active engagement with music, I cultivate creativity, patience, and disciplined mastery of complexity - qualities I apply to problem-solving and continuous learning in software development.
+🧩 Clean Architecture + TDD. KISS • DRY • SOLID • YAGNI — or it doesn’t ship.
+
+🏗️ Builds scale & sanity: fewer knobs, more signal, no drama.
+
+🧪 Tests > vibes. Refactor early, refactor often.
+
+🏎️ Endurance/F1 brain: shave ms like lap times; slow code gets blue‑flagged.
+
+🎸 Guitar mode: rhythm, riffs, repetition → reliable delivery.
+
+🤝 Team player: clear comms, shared ownership, zero flaky tests.
+
+⚡ Slow → tuned. Fragile → hardened. Over‑engineered → yeeted.
 </p>
 
 <h2 align="center"> 🛠️ Skills & Technologies 💻 </h2>
