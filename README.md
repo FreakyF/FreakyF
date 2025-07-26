@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@FreakyF&layout=compact&title_color=C71D47&text_color=C71D47&icon_color=4c71f2&border_color=C71D47&bg_color=00000000&hide_border=false&hide_title=true&theme=default&cache_seconds=1800&locale=en&border_radius=18" alt="WakaTime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@FreakyF&layout=compact&title_color=C71D47&text_color=C71D47&icon_color=4c71f2&border_color=C71D47&bg_color=00000000&hide_border=false&hide_title=true&theme=default&cache_seconds=1800&locale=en&border_radius=18&langs_count=16" alt="WakaTime Stats">
 </p>
 
 <p align="center">
