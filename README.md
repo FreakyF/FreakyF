@@ -93,7 +93,7 @@ Beyond my professional pursuits, I am an avid automotive enthusiast with a passi
 
 <p float="left">
   <a href="https://github.com/FreakyF/Cryptie" title="Cryptie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Cryptie&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="401">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Cryptie&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
   </a>
   <a href="https://github.com/FreakyF/Car-Mender" title="Car-Mender">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FreakyF&repo=Car-Mender&title_color=C71D47&text_color=C71D47&icon_color=C71D47&border_color=C71D47&bg_color=00000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=18" height="150" width="400">
