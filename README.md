@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=FreakyF&bg_color=00000000&color=C71D47&title_color=C71D47&line=C71D47&point=00000000&area_color=C71D47&area=true&hide_border=true&hide_title=true&theme=default&radius=18&height=500" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FreakyF&bg_color=00000000&color=C71D47&title_color=C71D47&line=C71D47&point=00000000&area_color=C71D47&area=true&hide_border=true&hide_title=true&theme=default&radius=18&height=500" alt="Contribution Graph">
 </p>
